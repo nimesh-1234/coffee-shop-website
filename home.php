@@ -161,7 +161,7 @@
 					<a href="view_products.php" class="btn">hot-tea</a>
 				</div>
 				<div class="box">
-					<img src="img/cold-tea.png">
+					<img src="img/hot.png">
 					<a href="view_products.php" class="btn">cold-tea</a>
 				</div>
 				<div class="box">
